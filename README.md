@@ -12,4 +12,4 @@ cmd `deno run --allow-net --allow-read --config tsconfig.app.json app.ts` para e
 ## Route
 
 - Users `http://localhost:8000/api/users/`
-  -Home `http://localhost:8000/`
+- Home `http://localhost:8000/`
