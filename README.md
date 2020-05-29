@@ -3,7 +3,7 @@
 ## Herramientas
 
 - Alosaur - Deno web framework [Alosaur](https://github.com/alosaur/alosaur)
-- dso is a simple ORM Library[Dso](https://github.com/manyuanrong/dso)
+- dso is a simple ORM Library [Dso](https://github.com/manyuanrong/dso)
 
 ## Run
 
