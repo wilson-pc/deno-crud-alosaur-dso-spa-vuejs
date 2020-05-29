@@ -1,4 +1,4 @@
-# deno-crud
+# deno-crud-alosaur-dso-spa-vuejs
 
 ## Herramientas
 
