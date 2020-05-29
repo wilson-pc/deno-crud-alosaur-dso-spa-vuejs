@@ -16,4 +16,4 @@ cmd `deno run --allow-net --allow-read --config tsconfig.app.json app.ts` para e
 - Home `http://localhost:8000/`
 
 ## Captura
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/wilson-pc/deno-crud-alosaur-dso-spa-vuejs/master/images/output.webp)
