@@ -14,3 +14,6 @@ cmd `deno run --allow-net --allow-read --config tsconfig.app.json app.ts` para e
 
 - Users `http://localhost:8000/api/users/`
 - Home `http://localhost:8000/`
+
+## Captura
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
